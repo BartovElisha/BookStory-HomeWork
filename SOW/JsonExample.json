@@ -1,0 +1,15 @@
+{
+    "name": "Eli Rotenberg",
+    "job": "Fullstack developer, HackerU lecturer",
+    "hobbies": ["Reading", "Flying to the moon", "Gardening"],
+    "essays": [
+        {
+            "name": "json essay",
+            "description": "an explanation about json."
+        },
+        {
+            "name": "jquery essay",
+            "description": "an explanation about jquery"
+        }
+    ]
+}

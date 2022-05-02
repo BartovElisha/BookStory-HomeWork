@@ -1,0 +1,142 @@
+{
+    "companyName": "BookStore",
+    "companyAddress": "Book Store Address",
+    "companyOwner": "Owner Name",
+    "companyCostomers": [
+        {
+            "user": "user1",
+            "password": "****",
+            "mail": "user1@gmail.com",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "cashBalance": "0$",
+            "orderHystory": []
+        },
+        {
+            "user": "user2",
+            "password": "****",
+            "mail": "user2@gmail.com",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "cashBalance": "1500$",
+            "orderHystory": []
+        },
+        {
+            "user": "user3",
+            "password": "****",
+            "mail": "user3@gmail.com",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "cashBalance": "100$",
+            "orderHystory": []
+        },
+        {
+            "user": "user4",
+            "password": "****",
+            "mail": "user4@gmail.com",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "cashBalance": "100$",
+            "orderHystory": []
+        },
+        {
+            "user": "user5",
+            "password": "****",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "cashBalance": "0$",
+            "orderHystory": []
+        },
+        {
+            "user": "user6",
+            "password": "****",
+            "mail": "user6@gmail.com",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "cashBalance": "1000$",
+            "orderHystory": []
+        }
+    ],
+    "companyProducts": [
+        {
+            "Games": []
+        },
+        {
+            "Accesories": [
+                "Pen",
+                "Pensel",
+                "NoteBook"
+            ]
+        },
+        {
+            "Top Books Category": [
+                {
+                    "Art & Photography": [
+                        "Get Changed",
+                        "Little Book of Chanel",
+                        "Threads of Life"
+                    ]
+                },
+                {
+                    "Biography": [
+                        "Freezing Order",
+                        "Merely A Rider",
+                        "The Bell Jar"
+                    ]
+                },
+                {
+                    "Children's Books": [
+                        "Heartstopper Volume One",
+                        "Solitaire",
+                        "Radio Silence"
+                    ]
+                },
+                {
+                    "Food & Drink": [
+                        "This Is Vegan Propaganda",
+                        "Vegan Richa's Indian Kitchen",
+                        "Vegan 100"
+                    ]
+                }
+            ],
+            "More Books Category": [
+                {
+                    "Audio Books": [
+                        "The Wheels On The Bus",
+                        "The Gruffalo and Other Stories 8 CD Box Set"
+                    ]
+                },
+                {
+                    "Business,Finance & Law": [
+                        "The Rebuilders",
+                        "Digital Darwinism"
+                    ]
+                },
+                {
+                    "Computing": [
+                        "AWS Certified Security Study Guide",
+                        "(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide"
+                    ]
+                },
+                {
+                    "Dictionaries & Languages": [
+                        "Essential Words for the TOEFL",
+                        "TOEFL Pocket Vocabulary"
+                    ]
+                },
+                {
+                    "Entertainment Books": [
+                        "Finding Me",
+                        "The Work"
+                    ]
+                }
+            ]
+        }
+    ],
+    "sheepingCities": [
+        "Ashdod",
+        "Tel Aviv",
+        "Jerusalim",
+        "Sderot"
+    ]
+}
